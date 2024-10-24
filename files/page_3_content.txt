@@ -1,0 +1,126 @@
+Title: What is digital marketing? | Oracle Middle East Regional
+
+URL: https://www.oracle.com/middleeast/cx/marketing/digital-marketing/
+
+Content:
+Would you like to visit an Oracle country site closer to you?
+
+Digital marketing
+
+Digital marketing refers to the creation and dissemination of content through digital media channels—websites, landing pages, social media, email, and mobile applications—and the promotion of that content using a variety of strategies across paid, earned, and owned digital channels, including SEO, SEM, pay-per-click (PPC) advertising, content syndication, social, email, text, and more.
+
+Digital marketing strategies help marketers define goals, target an audience, and develop a digital marketing plan that best reaches that audience. These strategies provide direction for a given campaign or program and a framework for evaluating outcomes.
+
+Today, everything is digital, and digital marketing has been integrated into almost every aspect of business, fundamentally changing how companies communicate with and deliver value to customers.
+
+So if your business cannot implement and execute a digital marketing strategy in an increasingly growing, global online marketplace, you simply will not be able to compete.
+
+Cross-channel marketing, multichannel marketing, omnichannel marketing, or whatever term you prefer, is all about engaging with your customer or prospect across every digital channel and any device. From the inbox to social networks—and across laptops, tablets, and smartphones—today’s consumers move seamlessly and fully expect you to be there with them, providing a seamless, integrated experience.
+
+To help you build a successful cross-channel marketing strategy, here are in-depth descriptions of the most widely used digital marketing channels:
+
+Email marketing is one of the oldest and best-known forms of digital marketing, used by B2B and B2C marketers alike. With email marketing, you collect customer data across various customer journey touchpoints, classify it to understand your potential customers’ preferences, and ultimately get permission to add them to your email list(s).
+
+Email content can include information about your products and services, news about your company and events, personalized offers, customer success stories, links to case studies, and technical or business briefs. Value is critical to ensure that your emails are opened and read—and not deleted right away. Personalized content and relevant offers go a long way to boost engagement.
+
+Email marketing is part art and part science. Your emails and digital assets need to be appealing and engaging, but there needs to be a balance between sending too many emails and not sending enough.
+
+Video is one of the most powerful digital marketing channels available. People love video. They watch videos for fun and research, and they share videos. In fact, YouTube reported more than two billion monthly logged-in viewers. Both B2B buyers and B2C consumers make buying decisions thanks to video.
+
+Video marketing builds brand awareness, boosts digital traffic, and increases conversion rates. Videos embedded into blog content have been a cornerstone of both B2B and B2C content marketing strategies for years.
+
+Sharing video is the key to getting more eyes on your content. That’s why you’ll want to leverage third-party sites, such as YouTube, and promote videos on your website and social media channels. Encourage others to share your videos.
+
+Keep your videos short and to the point. Attention spans are short, so the key is to provide great content in an engaging manner.
+
+Social media is a great way to reach a specific, targeted audience and connect directly with customers, potential customers, and partners. Which social media platform(s) you use depends on who you want to target. Facebook is still the largest social media platform worldwide. Twitter is still popular with B2B buyers. Instagram and TikTok are incredibly popular with millennial and Gen Z consumers, and LinkedIn is a great place to connect with B2B buyers in the early stages of the buying cycle.
+
+Every social media platform features different types of content, but all are very video/image-focused. So as you create content, always keep in mind how you want to distribute it through social media, and then adjust accordingly.
+
+Different platforms will continue to emerge, so marketers must continuously adapt digital marketing tactics to make the most of every platform available. For example, TikTok didn’t exist before September 2016, and today it has more active users than LinkedIn, Twitter, Pinterest, and Snapchat.
+
+Next to email marketing, text messaging is the most direct way to reach customers, but like social media, messages must be concise to be effective. Marketing teams can leverage short message services (SMS) that are text only or multimedia messages (MMS) that can include videos and gifs.
+
+Content marketing lets you personalize your outreach to different prospects and customers as you present your message. The more personalized your content, the more likely it will interest, intrigue, and hold the person’s attention. However, your content must align with your targeted audience’s intent and interest; it must provide some value to drive engagement and conversions.
+
+The types of content can include email copy, landing pages, infographics, ebooks, business briefs, banner ads, videos, text messages, commercials, newsletters, press releases, articles, blogs, and digital postcards. Content can (and should) be used across channels, but all of your content should have a consistent voice and message.
+
+A good search engine optimization (SEO) strategy optimizes website content (landing pages, blogs, etc.) so that it appears higher and more often in search results, driving traffic to your content. Good SEO results depend on keywords and page optimization. Using researched keywords and long-tail keywords (3+ word phrases) throughout your web content will improve SEO and provide the highest results in terms of traffic and conversion. Organically linking from high-authority third-party pages is another way to improve page rank and drive potential customers to your content.
+
+Pay-per-click (PPC) advertising refers to paying for each click on a specific link. Search engines and most social media sites offer PPC opportunities. PPC ads will appear in your targeted customers’ and prospective customers’ feeds.
+
+Search engine marketing (SEM) is a type of PPC advertising that can be quite impactful. It involves paying a search engine to show marketing messages (copy) and a link in a prominent position when visitors search on specific keywords.
+
+Your website is often the first point of contact potential customers have with your company and brand. Great web design can promote the consistent branding of all digital assets. It should also make your website more search engine friendly, provide a great user experience, and improve the conversion rate (more clicks, sign-ups, etc.).
+
+Marketers can display relevant advertising on third-party sites to reach more prospects. Such ads can include banners, sidebar boxes, video ads, and interactive ads that link back to one of your websites or landing pages.
+
+Many bloggers and social media influencers are affiliate marketers, as they use their blogs and social media accounts to promote different products and services. It is a performance-based type of marketing. Affiliate marketers earn a commission for promoting certain products. The more visitors and customers these marketers bring in, the more money the affiliate will earn.
+
+Traditional advertising media has gone through seismic changes over the past few years. Technology has made it possible to deliver more targeted media buys across new TV platforms such as Netflix, Hulu, YouTube, and others. But don’t count out network TV and radio, because in spite of a growing number of other entertainment options, people are still watching broadcast TV and listening to the radio.
+
+There are a number of ways to approach a digital marketing campaign. As a digital marketer, you have in your toolbox a wide range of tactics, strategies, and channels that can be employed to connect with your audience. Generally speaking, digital marketing campaigns involve several common steps:
+
+Digital marketing is a wide-ranging field. So it’s important to establish your goals before starting a digital marketing campaign. For example, do you want to build brand awareness? Acquire new customers? Focus on retention and customer loyalty? Outlining goals helps you tailor your strategy and budget to maximize your impact.
+
+Whose attention are you trying to get? The more details that you can find out about your target audience (age, location, income, etc.) the easier it will be to determine how to connect with them.
+
+Now that you know who you want to reach, you need to decide how (and for how much) you want to reach them. Suppose you’re a B2C digital marketer trying to connect with younger customers. In that case, you might allocate more of your budget to social media advertising on specific platforms rather than put the majority of your efforts (and money) into blog publishing.
+
+Analyze your data and try to find out as much as you can about your audience. For example, if you know that your customers prefer browsing on their phone versus a laptop, the content they receive will need to be optimized for mobile viewing. But that may not be enough. Customers interact with brands across a variety of channels in a nonlinear fashion. So you need to make sure that every piece of content has a consistent brand voice and messaging. Consistency prevents confusion about what your brand is and the value you provide.
+
+Measure across key metrics and iterate based on those results. If you don’t measure your performance based on the key metrics you defined earlier, how will you know whether the campaign is doing well or continuously improving? Measuring results over time ensures that you’re connecting with customers, driving loyalty, and building brand advocacy.
+
+Cross-channel marketing—or multichannel marketing—involves the use of a variety of different channels. Cross-channel marketing goes beyond (and also embraces) traditional marketing. In this digital world, a marketer has to use multiple channels to keep up with what audiences want. Depending upon your targeted customer base, you might need to use a variety of channels: social media, email, web, text, TV, and radio. The more data you have about your customers’ and prospects’ preferences, positions, and interests, the better you can craft a marketing strategy with the right content delivered over the right channels.
+
+Customers like jumping from channel to channel. They can go from social media to a website to a digital assistant to email in no time at all. You have to keep up with them and provide a seamless customer journey across all channels. Keep in mind that all your channels need to align with your voice and message. A disjointed customer journey across different channels turns customers off. Strive for consistency in your digital cross-channel marketing.
+
+Marketing is storytelling. How jarring and confusing would it be if the details were different? If the tone and voice changed? Your audience would not be able to keep up. They might not understand the message you’re trying to get across—and won’t stick around to hear how the story ends.
+
+The customer journey should be a pleasant one. Content needs to be easily read, viewed, and digested, no matter the channel. Websites should be easy to navigate, ads easy to understand, and graphics pleasing to the eye.
+
+Digital marketing is about having a digital conversation with your customers. You want to make the best impression possible so that they will keep talking to you.
+
+Digital marketing key performance indicators (KPIs) are used to measure marketing campaign performance. Digital marketers can use a number of KPIs to track results. As you work through your strategy, determining which specific digital marketing KPIs to use makes it easier to determine targets and goals and to measure campaign performance, including the following data:
+
+There are hundreds of possible KPIs you can use, depending on the types of campaigns you run. To learn more, continue reading:
+
+Digital marketing works for every business and all industries, but there is no one-size-fits-all approach. Different companies need to use different digital tactics to achieve their goals. The best tactics depend on several factors, such as your marketing team's size, budget, target audience, and business goals.
+
+Small-to-medium businesses (SMBs) may develop organic SEO strategies, social media strategies, email marketing campaigns, and blogging calendars since these tactics require little to no investment.
+
+Larger companies usually expand into paid programs to deliver on broader business goals. These tactics could include syndicating digital assets, producing webinars/webcasts, focusing on account-based marketing (ABM), and investing in paid media or PPC marketing.
+
+Digital marketing is a set of activities or tactics. Digital media refers to a set of forms, formats, and platforms that include:
+
+Digital marketers use digital media to connect with customers. Put another way, digital marketing is the strategy and digital media is the means.
+
+Digital marketing and internet marketing are slightly different, although there is overlap between the two. Digital marketing refers to a set of activities and tactics that use a variety of digital media channels.
+
+Internet marketing is a subset of digital marketing; it requires the internet to connect to leads. All forms of internet marketing are digital marketing, but not all forms of digital marketing are internet marketing. For example, TV ads, digital billboards, radio ads, and text messages (SMS) fall under digital marketing but not internet marketing.
+
+Compared to digital marketing, inbound marketing is more of a cohesive strategy comprised of some digital marketing tactics used to try and bring potential customers to the content/digital asset that is being offered. Inbound marketing is very metrics-driven, focusing bring in and then on pushing customers through the sales funnel, ultimately driving marketing qualified leads (MQLs) and conversions.
+
+Digital marketing tactics enable direct communication between companies and their customers, as those customers travel along their unique buying journeys. Digital marketing helps innovative marketers deliver the right content and offers at the right time, on the channels where customers spend most of their time. With the use of digital marketing KPIs, marketers can understand what strategies worked and how well they worked, helping to drive continuous improvement, boosting customer engagement, and improving marketing ROI.
+
+Done well, digital marketing benefits both customers and companies. By appropriately personalizing content and offers to each individual, customers feel that your brand understands their needs and can provide them with a valuable service or product. This ultimately deepens their trust, turning them into loyal brand advocates. There are many advantages of digital marketing for companies as well. These include:
+
+The ultimate goal of digital marketing is to drive a customer or buyer towards a purchase. Digital marketing lets both B2B and B2C marketing teams engage with a broader audience than possible through more traditional marketing tactics. They can also target more relevant potential customers, boosting marketing ROI.
+
+B2B digital marketing's primary goal is to drive high-quality leads to B2B sales teams, ensuring higher conversion rates. B2B buying cycles are often lengthy since the products/services are more complex, expensive, and require the involvement of more people.
+
+For example, the same product may be sold across different industries or verticals, and every account will have different stakeholders who often engage on multiple channels. The amount of coordination needed among lines of businesses is high.
+
+Channels commonly used by B2B digital marketing teams are business-focused, such as email, webcasts, video, LinkedIn, and Twitter.
+
+B2C digital marketing's primary goal is to get potential customers and customers to discover and engage with your brand by increasing your website's traffic and increasing your content's visibility. B2C digital marketing teams should choose consumer-focused channels, where B2C buyers are more likely to discover and engage with your brand.
+
+It all started with mobile, which has impacted digital marketing in a huge way. Consumer behavior has changed with the times. Customers now expect more from their brands, and micromoments count. What is a micromoment? It involves a consumer interacting with a brand at the touch of a button and in real time. The challenge for digital marketers now lies in intersecting people at micromoments with relevant marketing messaging that adds to their lives rather than disrupting them.
+
+Customers now expect a unique, connected, and seamless experience across all channels and instant gratification. You only have a micromoment to capture their attention and hold it with a strong message and a delightful, engaging experience. If you don’t, they will move on to the next offer. This has made the old methods of marketing obsolete.
+
+Modern marketers must adopt a mobile-first approach with their global audiences. You must keep in in mind that customers:
+
+This might be the future, but the future is now. It is happening right in front of everyone’s eyes. You cannot afford to be left behind. In fact, you best get ahead of the curve.
+
+But what actions can a smart, savvy digital marketer take?
